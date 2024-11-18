@@ -20,4 +20,4 @@ La página también presenta una sección de **limitaciones** para el usuario de
 
 1. Clona este repositorio en tu máquina local.
    ```bash
-   git clone https://github.com/tuusuario/waterwise-landing-page.git
+   git clone https://github.com/walner-prog/landing-waterwise
